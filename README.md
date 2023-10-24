@@ -46,4 +46,20 @@ project-root/
 
 ├── README.md # Project documentation
 
+Date: 10/23/2023
+
+Title: Project Update: Enhanced Global Website Availability with Amazon CloudFront and CI/CD Integration
+
+Abstract:
+In this project update, I successfully integrated Amazon CloudFront to improve the global accessibility of our website. 
+Additionally, I established a Continuous Integration/Continuous Deployment (CI/CD) pipeline using the AWS CLI, streamlining website updates from local development environments. 
+The website is now available in all AWS regions, enhancing its global reach.
+
+Conclusion:
+Through CloudFront integration and CI/CD pipeline implementation, our website is now accessible in all AWS regions, 
+offering improved performance and reduced latency for global users.
+
+Website Availability:
+Our website is accessible at http://genene.info.
+
 
