@@ -63,3 +63,19 @@ Website Availability:
 Our website is accessible at http://genene.info.
 
 
+Date: 10/24/2023
+Project Update
+
+Today in this project, the following key milestones have been achieved:
+
+Lambda Function Creation:
+
+A Lambda function has been successfully created, along with the necessary policies and user roles to ensure secure and controlled access.
+
+DynamoDB Tables Setup:
+DynamoDB tables have been set up within the AWS environment. 
+These tables serve as a structured and efficient data storage solution for the project.
+
+Established Communication:
+The communication between DynamoDB and the Lambda function has been established and verified to be fully operational. 
+This ensures that the Lambda function can interact with DynamoDB to perform data retrieval and other relevant tasks.
