@@ -105,6 +105,5 @@ export const projectCardImages = [
 /* Contact Info
  ************************************************************** 
   Add your formspree endpoint below.
-  https://formspree.io/
 */
-export const formspreeUrl = "https://formspree.io/f/YourEndpoint";
+export const formspreeUrl = "https://7732ndfes0.execute-api.us-east-1.amazonaws.com/s3/contact";

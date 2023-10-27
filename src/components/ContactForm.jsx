@@ -37,9 +37,9 @@ export default function ContactForm() {
     setIsValidated(true);
     const { name, email, message } = form.elements;
     const data = {
-      name: name.value,
-      email: email.value,
-      message: message.value,
+      sender_Name: name.value,
+      sender_Email: email.value,
+      message_Body: message.value,
     };
     if (form.checkValidity()) {
       event.preventDefault();
